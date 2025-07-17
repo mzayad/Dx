@@ -1,5 +1,18 @@
-node_modules
+# Node.js
+node_modules/
 .env
 .DS_Store
-build
-dist
+
+# React Build
+build/
+dist/
+
+# Expo Mobile
+.expo/
+.expo-shared/
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
