@@ -1,6 +1,6 @@
 # Create a new GitHub repo manually at: https://github.com/new
 git init
-git remote add origin https://github.com/YOUR_USERNAME/esg-saas.git
+git remote add origin https://github.com/Dx/esg-saas.git
 
 # Add your files
 git add .
